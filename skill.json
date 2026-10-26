@@ -1,0 +1,12 @@
+{
+  "name": "moras-tiktok-shop-trend-burst-detector-skill",
+  "version": "1.0.0",
+  "description": "Algorithmic e-commerce trend detector calculating daily sales velocity, acceleration inflection, and creator adoption saturation",
+  "author": "AlphaPark Engineering",
+  "license": "MIT",
+  "keywords": ["trend-detector", "tiktok-shop", "viral-burst", "velocity-acceleration", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
